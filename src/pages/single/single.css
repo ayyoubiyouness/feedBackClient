@@ -1,0 +1,95 @@
+.singelComment{
+    margin-top: 100px;
+    width: 80%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-bottom: 100px;
+
+}
+.single{
+    position : relative
+}
+.edit-feedback{
+    position: absolute;
+    top: 40px;
+    right: 0;
+    background-color: #b11fea;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.totalComment{
+    margin-left: 30px;
+    font-size: 28px;
+    font-weight: 500;
+    color: #526189;
+}
+.singleComment-container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-bottom: 2px solid gray;
+}
+
+.singleComment-top{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.imageAuthor{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+.commentAuthor{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.singleCommentBottom{
+    padding: 1.5rem;
+    margin-left: 50px;
+    color: #647196;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.thisthing{
+     width: 250px;
+     height: 250px;
+     
+    
+    }
+
+.thisthing img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+    border: 3px solid lightblue;
+
+}
+
+.username{
+    font-weight: 500;
+    font-size: 30px ;
+}
+
+
+.single-center{
+    margin-left: 55px;
+}
+.hello{
+    margin-left: 10px;
+}

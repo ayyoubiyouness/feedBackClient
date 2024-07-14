@@ -1,0 +1,31 @@
+select {
+    padding: 13px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border: none;
+    border-radius: 4px;
+    width: 80%;
+    background-color: #f7f8fd;
+    
+  }
+
+  .bugfile{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bugfile-title, .filepath-title {
+    color: #3a4373;
+    font-weight: 450;
+    font-size: 20px;
+  }
+  .filepath{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+
+  
+  

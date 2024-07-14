@@ -1,0 +1,19 @@
+.app-info{
+    color: white;
+    background-image: url("../../assets/suggestions/mobile/background-header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1em 5px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.app-info_title{
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.app-info_sub-heading{
+    font-weight: 600;
+    text-align: center;
+}

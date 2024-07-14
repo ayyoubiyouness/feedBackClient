@@ -1,0 +1,19 @@
+.goback{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    margin-bottom: 80px;
+    
+
+}
+
+.text{
+    cursor: pointer;
+    color: #647196;
+    font-weight: 700;
+    font-family:  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text:hover{
+    text-decoration: underline;
+}

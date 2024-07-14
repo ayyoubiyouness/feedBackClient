@@ -1,0 +1,50 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .login-container form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+  }
+  
+  .login-container form div {
+    margin-bottom: 15px;
+  }
+  
+  .login-container form button {
+    padding: 10px;
+  }
+
+ .username-label, .password-title{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 20px;    
+ }
+
+ .username-input, .password-input{
+    height: 30px;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px 10px;
+ }
+
+
+ .submit-button{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1877F2;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+ }
+ 

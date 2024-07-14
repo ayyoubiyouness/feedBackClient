@@ -1,0 +1,28 @@
+.feed-button {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.add{
+    background-color: #b11fea;
+    color: white;
+    font-weight: 540;
+    border: none;
+    font-size: 22px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 13px 18px;
+
+}
+.cancel {
+    background-color: #3a4373;
+    color: white;
+    padding: 13px 18px;
+    font-weight: 540;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 22px;
+
+}

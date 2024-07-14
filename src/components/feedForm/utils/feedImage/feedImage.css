@@ -1,0 +1,18 @@
+.feed-image{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.image-title{
+    color: #3a4373;
+    font-weight: 500;
+    font-size: 20px;
+}
+.feed-image{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,45 @@
+.feed-title{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    gap: 6px;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.title{
+    color: #3a4373;
+    font-weight: 700;
+    font-size: 25px;
+}
+.subtitle{
+    color: #3a4373;
+    font-weight: 400;
+}
+
+
+.input-title{
+    margin-top: 10px ;
+    width: 70%;
+    height: 40px;
+    padding: 5px 15px;
+    background-color: #f7f8fd;
+    border: none;
+    font-size: 20px;
+    margin-left: 13px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid white;
+
+}
+
+.input-title:hover{
+    border: 1px solid rgb(159, 41, 41);
+
+}
+.input-title:focus{
+    outline: none;
+}
